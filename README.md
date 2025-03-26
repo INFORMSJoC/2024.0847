@@ -1,6 +1,6 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# 2024.0847: SAA for stochastic programs with endogenous uncertainty
+# SAA for stochastic programs with endogenous uncertainty
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
@@ -27,7 +27,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{saaendog,
-  author =        {Maria Bazotte},
+  author =        {Maria Bazotte, Margarida Carvalho and Thibaut Vidal},
   publisher =     {INFORMS Journal on Computing},
   title =         {{SAA for stochastic programs with endogenous uncertainty}},
   year =          {2024},
